@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "DLMAIIAC_workbook"
+version = "0.1.0"
+description = ""
+authors = ["Sami Islam <sami_islam@hotmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.13"
+ipywidgets = "^8.1.5"
+ipykernel = "^6.29.5"
+dowhy = "^0.12"
+causal-learn = "^0.1.4.1"
+pandas = "^2.2.3"
+scikit-learn = "^1.6.1"
+numpy = "^2.2.4"
+cdt = "^0.6.0"
+causality = "^0.0.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

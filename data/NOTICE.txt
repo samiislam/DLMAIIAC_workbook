@@ -1,0 +1,3 @@
+The data "social_media_engagement_data.csv" has been obtained from here: https://www.kaggle.com/datasets/aliredaelblgihy/social-media-engagement-report
+
+The LICENSE "Apache 2.0" in the LICENSE file applies.
