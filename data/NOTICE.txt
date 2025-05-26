@@ -1,3 +1,6 @@
 The data "social_media_engagement_data.csv" has been obtained from here: https://www.kaggle.com/datasets/aliredaelblgihy/social-media-engagement-report
+The LICENSE "Apache 2.0" in the LICENSE.txt file applies for this dataset.
 
-The LICENSE "Apache 2.0" in the LICENSE file applies.
+
+The data "student_performance_data.csv" has been obtained from here: https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset
+The LICENSE "Attribution 4.0 International (CC by 4.0)" found under https://creativecommons.org/licenses/by/4.0/ applies for this dataset.
